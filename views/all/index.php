@@ -19,6 +19,8 @@
           <div class="col-md-4 box">
             <a class="btn btn-info" href="?class=Index&view=login">Login</a>
             <a class="btn btn-warning" href="?class=Index&view=contacto">Contac Us</a>
+            <a class="btn btn-warning" href="?class=Index&view=instructor">Instructor</a>
+            <a class="btn btn-warning" href="?class=Estudiantes&view=index">Estudiantes</a>
        </div>
     </div>
 
