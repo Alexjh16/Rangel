@@ -1,0 +1,16 @@
+<?php
+    require_once("models/database.php");    
+    require_once("models/Ciudad.php");
+    require_once("models/Eps.php");
+    require_once("models/Estado_asistencia.php");
+    require_once("models/Estudiante.php");
+    require_once("models/Estudiante.php");
+    require_once("models/Genero.php");
+    require_once("models/Grupo.php");
+    require_once("models/Profesor.php");
+    require_once("models/Registro_asistencia.php");
+    require_once("models/Registro_grupo.php");
+    require_once("models/Rol.php");
+    require_once("models/Tipo_documento.php");
+    require_once("models/Usuario.php");
+?>
